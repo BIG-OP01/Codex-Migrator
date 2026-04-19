@@ -212,7 +212,6 @@ pause
 
 ## License
 
-可依需求自行補上，例如：
 
 ```text
 MIT
