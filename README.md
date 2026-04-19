@@ -4,7 +4,7 @@ A PowerShell tool for **migrating local OpenAI Codex data between different Wind
 
 This tool is designed for scenarios such as:
 
-- switching between an **A** PC and a **B** PC while using Codex
+- switching between a **A** PC and a **B** PC while using Codex
 - preserving existing conversations, archived sessions, and selected local state
 - migrating data through **ZIP backup / restore**
 - supporting both **first-time full migration** and **daily lightweight migration**
